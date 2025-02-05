@@ -1,10 +1,3 @@
-
-Memória atualizada
-Aqui está um modelo de README.md para o seu perfil no GitHub:
-
-md
-Copiar
-Editar
 # 👋 Olá, eu sou o Adalto!  
 
 💼 Trabalho como **Gerente de Suporte**  
@@ -19,4 +12,6 @@ Editar
 
 💡 Buscando desafios para evoluir cada vez mais como desenvolvedor web!  
 
-📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/seu-perfil) 
+## 📫 Conecte-se comigo  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adaltor95/)  
+[![Instagram](https://img.shields.io/badge/Instagram-@seuusuario-purple?style=flat&logo=instagram)](https://www.instagram.com/adaltor95/)  
