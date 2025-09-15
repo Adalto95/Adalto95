@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Adalto!  
 
-💼 Trabalho como **Gerente de Suporte**  
-📚 Em formação pela **DNC** como **Desenvolvedor Full-Stack**  
+📚 Em formaçã**Desenvolvedor Full-Stack** em formação  
 🚀 Focado em **Node.js, JavaScript e React**  
 
 ## Sobre mim  
